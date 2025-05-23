@@ -1,7 +1,7 @@
 import streamlit as st 
 import pandas as pd 
 
-st.wrtite("""
+st.write("""
 # My first app
 Hello "World!"
 """)
